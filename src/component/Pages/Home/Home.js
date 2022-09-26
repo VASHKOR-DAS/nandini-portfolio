@@ -8,11 +8,7 @@ const Home = () => {
     return (
         <div className="min-h-screen py-6 px-12">
             <Banner></Banner>
-           
-
-        
-            
-           
+             
         </div>
     );
 };

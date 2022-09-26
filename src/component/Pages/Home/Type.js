@@ -8,7 +8,7 @@ function Type() {
         strings: [
     
           "Junior Web Developer",
-          "Fornt end Developer",
+          "Front end Developer",
           "Back end Developer",
 
         ],
