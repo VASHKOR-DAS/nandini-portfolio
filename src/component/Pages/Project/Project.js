@@ -17,7 +17,7 @@ const Project = () => {
 
 
 
-<div className="cart shadow-xl border-2 grid justify-center p-6">
+  <div className="cart shadow-xl border-2 grid justify-center p-6">
      <div className=''>
       <img className='w-100%' src=" https://i.ibb.co/c1FmKns/taskla.png" class="max-w-sm  shadow-2xl" alt="" />
        </div>
@@ -28,7 +28,7 @@ const Project = () => {
        <a href="https://taskla-hr.netlify.app/">
         <button className='btn-style p-2 text-white m-2'>LIVE SITE</button>
        </a>
-       <a href="https://github.com/ranawp/taskla">
+       <a href="/project">
      <button className='btn-style p-2 text-white m-2'>GIT CODE</button>
       </a>
 
@@ -48,7 +48,7 @@ const Project = () => {
        <a href="https://assignment-baro.web.app/">
         <button className='btn-style p-2 text-white m-2'>LIVE SITE</button>
        </a>
-       <a href="https://github.com/mozahidahmed/manufacture-client-site">
+       <a href="/project">
      <button className='btn-style p-2 text-white m-2'>GIT CODE</button>
       </a>
 
@@ -69,7 +69,7 @@ const Project = () => {
        <a href="https://furniture-warehouse-d4ac5.web.app/">
         <button className='btn-style p-2 text-white m-2'>LIVE SITE</button>
        </a>
-       <a href="https://github.com/mozahidahmed/warehouse-client-site">
+       <a href="/project">
      <button className='btn-style p-2 text-white m-2'>GIT CODE</button>
       </a>
 
@@ -89,7 +89,7 @@ const Project = () => {
        <a href="https://coffeehouse-52837.web.app/">
         <button className='btn-style p-2 text-white m-2'>LIVE SITE</button>
        </a>
-       <a href="https://github.com/mozahidahmed/coffeehouse-client-side">
+       <a href="/project">
      <button className='btn-style p-2 text-white m-2'>GIT CODE</button>
       </a>
 
@@ -109,7 +109,7 @@ const Project = () => {
        <a href="https://vertual-learning.netlify.app/">
         <button className='btn-style p-2 text-white m-2'>LIVE SITE</button>
        </a>
-       <a href="https://github.com/mozahidahmed/PNMonline-tech">
+       <a href="/project">
      <button className='btn-style p-2 text-white m-2'>GIT CODE</button>
       </a>
 
